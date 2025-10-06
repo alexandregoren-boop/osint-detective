@@ -3,4 +3,5 @@ pandas
 requests
 beautifulsoup4
 openpyxl
+fake-useragent
 lxml
